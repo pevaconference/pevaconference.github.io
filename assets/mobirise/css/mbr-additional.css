@@ -1812,6 +1812,26 @@ a {
     max-width: 12.5%;
   }
 }
+.cid-v1RpQU1h7i {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-v1RpQU1h7i img {
+  width: 120px;
+  margin: auto;
+}
+.cid-v1RpQU1h7i .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-v1RpQU1h7i .card {
+    max-width: 12.5%;
+  }
+}
 .cid-uZwmFjQDWP {
   padding-top: 1rem;
   padding-bottom: 1rem;
